@@ -8,4 +8,4 @@ In the care I took the global coordinates of a square trajectory of Side 6.5m an
 
 **Case 2**
 Second case is to make drone take off at the height of 10m and follow the triangular trajectory of side 10m.
-For the case also I took the global coordinates of a triangular trajectory with same initial coordinates as in Case 1
+For this case also I took the global coordinates of a triangular trajectory with same initial coordinates as in Case 1
